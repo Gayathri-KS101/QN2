@@ -3,7 +3,7 @@ body {
 
     margin: 0;
     padding: 0;
-    background-image: url('C:\Users\HP\OneDrive\Pictures\wallpaper.jpg'); /* Replace 'background.jpg' with your image file path */
+    background-image: url('qn2treassurehunt.gif'); /* Replace 'background.jpg' with your image file path */
     background-size: cover;
     background-position: center;
 }
@@ -11,7 +11,7 @@ body {
    
 .container {
     text-align: center;
-    background-color: #fff;
+    /*background-color: #fff;*/
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
